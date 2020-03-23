@@ -30,4 +30,6 @@ python37 -m http.server 8080
 # build a website
 # read how-to here:
 # https://pages.github.com/
+# go to https://my-username.github.io
+# in my case, go to mberg88.github.io/results/tfjs_main.html
 
